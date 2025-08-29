@@ -6,12 +6,13 @@
 
 ## 🌐 Socials  
 
-| Platform | Link |
-|----------|------|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domala-varsha-9036aa28a) | Connect with me on LinkedIn |
-| [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domalavarsha1@gmail.com) | Reach me via Email |
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/varsha_domala) | My LeetCode Profile |
-| [![Credly](https://img.shields.io/badge/Credly-Badge-orange?logo=credly&logoColor=white)](https://www.credly.com/users/domala-varsha) | View My Certifications on Credly |
+## 🌐 Socials  
+
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domala-varsha-9036aa28a)  
+> [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domalavarsha1@gmail.com)  
+> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/varsha_domala)  
+> [![Credly](https://img.shields.io/badge/Credly-Badge-orange?logo=credly&logoColor=white)](https://www.credly.com/users/domala-varsha)
+
 
 
 # 💻 Tech Stack:
