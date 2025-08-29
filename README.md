@@ -4,8 +4,15 @@
 🔭 I’m currently working on data structures using Python<br>🌱 I’m currently learning MYSQL,HTML and Computer Networks<br>👯 I’m looking to collaborate on projects involving Database-driven applications using Python and MySQL, and IOT<br>🤔 I’m looking for help with contributing to open-source projects and strengthening Data Structures & Algorithms (DSA).<br>💬 Ask me about Python, Java, C, Arduino, and Embedded Systems.<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/domala-varsha-9036aa28a) | [Email](mailto:domalavarsha1@gmail.com)<br>⚡ Fun fact: I love exploring real-world problems and building tech solutions.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domala-varsha-9036aa28a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domalavarsha1@gmail.com) 
+## 🌐 Socials  
+
+| Platform | Link |
+|----------|------|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domala-varsha-9036aa28a) | Connect with me on LinkedIn |
+| [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domalavarsha1@gmail.com) | Reach me via Email |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/varsha_domala) | My LeetCode Profile |
+| [![Credly](https://img.shields.io/badge/Credly-Badge-orange?logo=credly&logoColor=white)](https://www.credly.com/users/domala-varsha) | View My Certifications on Credly |
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
