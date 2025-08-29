@@ -3,16 +3,11 @@
 # 💫 About Me:
 🔭 I’m currently working on data structures using Python<br>🌱 I’m currently learning MYSQL,HTML and Computer Networks<br>👯 I’m looking to collaborate on projects involving Database-driven applications using Python and MySQL, and IOT<br>🤔 I’m looking for help with contributing to open-source projects and strengthening Data Structures & Algorithms (DSA).<br>💬 Ask me about Python, Java, C, Arduino, and Embedded Systems.<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/domala-varsha-9036aa28a) | [Email](mailto:domalavarsha1@gmail.com)<br>⚡ Fun fact: I love exploring real-world problems and building tech solutions.
 
-
 ## 🌐 Socials  
-
-## 🌐 Socials  
-
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domala-varsha-9036aa28a)  
-> [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domalavarsha1@gmail.com)  
-> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/varsha_domala)  
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/domala-varsha-9036aa28a) 
+> [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:domalavarsha1@gmail.com) 
+> [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/varsha_domala) 
 > [![Credly](https://img.shields.io/badge/Credly-Badge-orange?logo=credly&logoColor=white)](https://www.credly.com/users/domala-varsha)
-
 
 
 # 💻 Tech Stack:
